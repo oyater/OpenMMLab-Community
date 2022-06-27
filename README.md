@@ -9,4 +9,50 @@
 | 单元格     | 单元格       | 单元格              |           |            | 
 | 单元格     | 单元格       | 单元格              |           |            |
 ## Learn about OpenMMLab
+
+
 ## Contribute to OpenMMLab
+Contributing to OpenMMLab
+All kinds of contributions are welcome, including but not limited to the following.
+
+Fix typo or bugs
+Add documentation or translate the documentation into other languages
+Add new features and components
+Workflow
+fork and pull the latest OpenMMLab repository
+checkout a new branch (do not use master branch for PRs)
+commit your changes
+create a PR
+If you plan to add some new features that involve large changes, it is encouraged to open an issue for discussion first.
+Code style
+Python
+We adopt PEP8 as the preferred code style.
+
+We use the following tools for linting and formatting:
+
+flake8: A wrapper around some linter tools.
+isort: A Python utility to sort imports.
+yapf: A formatter for Python files.
+codespell: A Python utility to fix common misspellings in text files.
+mdformat: Mdformat is an opinionated Markdown formatter that can be used to enforce a consistent style in Markdown files.
+docformatter: A formatter to format docstring.
+Style configurations of yapf and isort can be found in setup.cfg.
+
+We use pre-commit hook that checks and formats for flake8, yapf, isort, trailing whitespaces, markdown files, fixes end-of-files, double-quoted-strings, python-encoding-pragma, mixed-line-ending, sorts requirments.txt automatically on every commit. The config for a pre-commit hook is stored in .pre-commit-config.
+
+After you clone the repository, you will need to install initialize pre-commit hook.
+
+pip install -U pre-commit
+From the repository folder
+
+pre-commit install
+After this on every commit check code linters and formatter will be enforced.
+
+Before you create a PR, make sure that your code lints and is formatted by yapf.
+
+C++ and CUDA
+We follow the Google C++ Style Guide.
+
+## License
+This project is released under the Apache 2.0 license.
+
