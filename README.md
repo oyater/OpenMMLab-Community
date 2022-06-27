@@ -2,11 +2,11 @@
 
 ## Join OpenMMLab
  All the contributors are welcomed to claim your reward by filing this form.
-|Role     | Developer | contributor | Active contributor | committer | maintainer | 
-|:----:   | :----:    | :----:      | :----:             |:----:     |:----:      |
-|efinition   | 单元格     | 单元格       | 单元格              |           |            |
-|单元格    | 单元格     | 单元格       | 单元格              |           |            | 
-|单元格    | 单元格     | 单元格       | 单元格              |           |            |
+|Role     |  contributor | Active contributor | committer | maintainer | 
+|:----:   |  :----:      | :----:             |:----:     |:----:      |
+|Definition   | Submit standard Pr and be merged 1 or more times| Submit standard pr and be merged 3 times or more       | Submitted 5 standard pr or more times and merged, and through (two-way) self-referral/selected by Maintainer              |    Released after review and long-term maintenance of MM series algorithm library, sub-project members       |   
+|单元格    | 单元格     | 单元格       | 单元格              |           |   
+|单元格    | 单元格     | 单元格       | 单元格              |           |   
 ## Learn about OpenMMLab
 
 
