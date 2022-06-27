@@ -22,7 +22,7 @@
 
 ## Learn about OpenMMLab
 
-[**OpenMMLab Course](https://github.com/wangruohui/OpenMMLabCourse)
+[**OpenMMLab Course**](https://github.com/wangruohui/OpenMMLabCourse)
 
 ## Contribute to OpenMMLab
 
