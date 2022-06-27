@@ -3,7 +3,7 @@
 ## Join OpenMMLab
  All the contributors are welcomed to claim your reward by filing this form.
  
- ### As a developer
+ ### As a developer：
 |**Role**     |  **contributor** | **Active contributor** | **committer** | **maintainer** | 
 |:----:   |  :----:      | :----:             |:----:     |:----:      |
 |Definition   | Submit standard Pr and be merged 1 or more times| Submit standard pr and be merged 3 times or more       | Submitted 5 standard pr or more times and merged, and through (two-way) self-referral/selected by Maintainer              |    Released after review and long-term maintenance of MM series algorithm library, sub-project members       |   
@@ -11,7 +11,7 @@
 |**Rights**   | 单元格     | 单元格       | 单元格              |           |   
 |**Rights**   | 单元格     | 单元格       | 单元格              |           |   
 
- ### As a user
+ ### As a user：
 |**Role**     |  **contributor** | **Active contributor** | **committer** | **maintainer** | 
 |:----:   |  :----:      | :----:             |:----:     |:----:      |
 |Definition   | Submit standard Pr and be merged 1 or more times| Submit standard pr and be merged 3 times or more       | Submitted 5 standard pr or more times and merged, and through (two-way) self-referral/selected by Maintainer              |    Released after review and long-term maintenance of MM series algorithm library, sub-project members       |   
@@ -24,21 +24,22 @@
 
 
 ## Contribute to OpenMMLab
-Contributing to OpenMMLab
+
 All kinds of contributions are welcome, including but not limited to the following.
 
 * Fix typo or bugs
 * Add documentation or translate the documentation into other languages
 * Add new features and components
 
-Workflow
+**Workflow
 1. fork and pull the latest OpenMMLab repository
 2. checkout a new branch (do not use master branch for PRs)
 3. commit your changes
 4. create a PR
     If you plan to add some new features that involve large changes, it is encouraged to open an issue for discussion first.
 
-Code style
+**Code style
+
 Python
 We adopt PEP8 as the preferred code style.
 
