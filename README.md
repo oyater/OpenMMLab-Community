@@ -23,8 +23,8 @@ Workflow
 1. fork and pull the latest OpenMMLab repository
 2. checkout a new branch (do not use master branch for PRs)
 3. commit your changes
-4。 create a PR
-If you plan to add some new features that involve large changes, it is encouraged to open an issue for discussion first.
+4. create a PR
+    If you plan to add some new features that involve large changes, it is encouraged to open an issue for discussion first.
 
 Code style
 Python
