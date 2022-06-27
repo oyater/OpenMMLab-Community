@@ -4,7 +4,7 @@
  All the contributors are welcomed to claim your reward by filing this form.
 |Role     | Developer | contributor | Active contributor | committer | maintainer | 
 |:----:   | :----:    | :----:      | :----:             |:----:     |:----:      |
-|单元格    | 单元格     | 单元格       | 单元格              |           |            |
+|efinition   | 单元格     | 单元格       | 单元格              |           |            |
 |单元格    | 单元格     | 单元格       | 单元格              |           |            | 
 |单元格    | 单元格     | 单元格       | 单元格              |           |            |
 ## Learn about OpenMMLab
