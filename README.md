@@ -15,15 +15,17 @@
 Contributing to OpenMMLab
 All kinds of contributions are welcome, including but not limited to the following.
 
-Fix typo or bugs
-Add documentation or translate the documentation into other languages
-Add new features and components
+* Fix typo or bugs
+* Add documentation or translate the documentation into other languages
+* Add new features and components
+
 Workflow
-fork and pull the latest OpenMMLab repository
-checkout a new branch (do not use master branch for PRs)
-commit your changes
-create a PR
+1. fork and pull the latest OpenMMLab repository
+2. checkout a new branch (do not use master branch for PRs)
+3. commit your changes
+4。 create a PR
 If you plan to add some new features that involve large changes, it is encouraged to open an issue for discussion first.
+
 Code style
 Python
 We adopt PEP8 as the preferred code style.
