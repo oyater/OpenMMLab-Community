@@ -10,10 +10,7 @@
 | Submit standard Pr and be merged 1 or more times| Submit standard pr and be merged 3 times or more     
 | Submitted 5 standard pr or more times and merged, and through (two-way) self-referral/selected by Maintainer              
 |    Released after review and long-term maintenance of MM series algorithm library, sub-project members       |   
-|**Medal**  | ![Image text](https://github.com/oyater/OpenMMLab-Community/blob/main/image/be07b70e-a563-47ae-bfad-33f0bc6ec969.jpeg)     
-| ![Image text](https://github.com/oyater/OpenMMLab-Community/blob/main/image/1acba771-1375-427d-b700-33491961fc0b.jpeg)      
-| ![Image text](https://github.com/oyater/OpenMMLab-Community/blob/main/image/e691bacd-c49f-4f34-9bcf-552c69205166.jpeg)              
-| ![Image text](https://github.com/oyater/OpenMMLab-Community/blob/main/image/9c27baa5-5e97-4450-a4c7-1bf0633bc11a.jpeg)        |   
+|**Medal**  | ![Image text](https://github.com/oyater/OpenMMLab-Community/blob/main/image/be07b70e-a563-47ae-bfad-33f0bc6ec969.jpeg)     | ![Image text](https://github.com/oyater/OpenMMLab-Community/blob/main/image/1acba771-1375-427d-b700-33491961fc0b.jpeg)      | ![Image text](https://github.com/oyater/OpenMMLab-Community/blob/main/image/e691bacd-c49f-4f34-9bcf-552c69205166.jpeg)              | ![Image text](https://github.com/oyater/OpenMMLab-Community/blob/main/image/9c27baa5-5e97-4450-a4c7-1bf0633bc11a.jpeg)        |   
 |**Rights**   | 单元格     | 单元格       | 单元格              |           |   
 |**Rights**   | 单元格     | 单元格       | 单元格              |           |   
 
