@@ -1,7 +1,8 @@
 # OpenMMLab-Community
 
 ## Join OpenMMLab
- All the contributors are welcomed to claim your reward by filing this form，And we will invite you to join the corresponding **github organization** for medal Displaying.
+ All the contributors are welcomed to claim your reward by filing this form，
+  And we will invite you to join the corresponding **github organization** for medal Displaying.
  
  ### As a developer：
 |**Role**     |  **contributor** | **Active contributor** | **committer** | **maintainer** | 
