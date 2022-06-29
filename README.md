@@ -1,7 +1,7 @@
 # OpenMMLab-Community
 
 ## Join OpenMMLab
- All the contributors are welcomed to claim your reward by filing this form（【评审后加链接），
+ All the contributors are welcomed to claim your reward by filing this form（评审后加链接），
  
   And we will invite you to join the corresponding **github organization** for medal Displaying.
  
