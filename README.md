@@ -16,7 +16,8 @@
  ### As a user：（暂时不加）
 |**Role**     |  **OS1** | **OS1** | **committer** | **maintainer** | 
 |:----:   |  :----:      | :----:             |:----:     |:----:      |
-|Definition   |       |          |       |   
+|**Definition**  |       |          |       |   
+|**Tasks**  |       |          |       |   
 |**Medal**  |    |  |           |   
 |**Rights**   |     |    |       |           |   
 
