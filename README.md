@@ -6,7 +6,7 @@
   And we will invite you to join the corresponding **github organization** for medal Displaying.
  
  ### As a developer：
-|**Role**     |  **contributor** | **Active contributor** | **committer** | **maintainer** | 
+|*Rank**     |  **contributor** | **Active contributor** | **committer** | **maintainer** | 
 |:----:   |  :----:      | :----:             |:----:     |:----:      |
 |**Definition**  | Submit 1-2 standard Pr and be merged | Submit 3-4 standard pr and be merged      | Submitted 5+ standard pr and be merged, through elf-referral/selected by Maintainer  |  Long-term maintenance of MM series algorithm library, Join to be MM Maintainer |   
 |**Medal**  | |   |         |     |   
@@ -14,7 +14,7 @@
 
 
  ### As a user：（暂时不加）
-|**Role**     |  **OS1** | **OS1** | **committer** | **maintainer** | 
+|**Rank**     |  **OS1** | **OS1** | **committer** | **maintainer** | 
 |:----:   |  :----:      | :----:             |:----:     |:----:      |
 |**Definition**  |       |          |       |   
 |**Tasks**  |       |          |       |   
