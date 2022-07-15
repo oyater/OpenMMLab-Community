@@ -1,5 +1,5 @@
 # OpenMMLab-Community
-<div align=center>!([http:...](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/%E6%88%AA%E5%B1%8F2022-06-27%2016.35.29.png))
+![RUNOOB 图标] <div align=center>!(https://github.com/oyater/OpenMMLab-Community/blob/main/icon/%E6%88%AA%E5%B1%8F2022-06-27%2016.35.29.png)
 
 ## Join OpenMMLab
  All the contributors are welcomed to claim your reward by filing this form（https://openmmlab.com/contributor），
