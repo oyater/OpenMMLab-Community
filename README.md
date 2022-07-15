@@ -9,8 +9,8 @@
  ### As a developer：
 |*Rank**     |  **contributor** | **Active contributor** | **committer** | **maintainer** | 
 |:----:   |  :----:      | :----:             |:----:     |:----:      |
-|**Definition**  | Submit 1-2 standard Pr and be merged | Submit 3-4 standard pr and be merged      | Submitted 5+ standard pr and be merged, through elf-referral/selected by Maintainer  |  Long-term maintenance of MM series algorithm library, Join to be MM Maintainer |   
-|**Medal**  | |   |         |     |   
+|**Definition**  | Submit 1-2 standard Pr and be merged | Submit 3-4 standard pr and be merged      | Submitted 5+ standard pr and be merged, through self-referral/selected by Maintainer  |  Long-term maintenance of MM series algorithm library, Join to be MM Maintainer |   
+|**Medal**  | ![1](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_f9b16886-570c-491b-989e-39bf514c9b7g.jpg)|   |         |     |   
 |**Rights**   |   |      |               |           |   
 
 
