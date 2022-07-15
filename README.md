@@ -1,5 +1,5 @@
 # OpenMMLab-Community
-English | ！[简体中文](https://github.com/oyater/OpenMMLab-Community/blob/main/README_CN.md)
+English | [简体中文](https://github.com/oyater/OpenMMLab-Community/blob/main/README_CN.md)
 ![图标](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/%E6%88%AA%E5%B1%8F2022-06-27%2016.35.29.png)
 
 ## Join OpenMMLab
