@@ -10,7 +10,7 @@
 |*Rank**     |  **contributor** | **Active contributor** | **committer** | **maintainer** | 
 |:----:   |  :----:      | :----:             |:----:     |:----:      |
 |**Definition**  | Submit 1-2 standard Pr and be merged | Submit 3-4 standard pr and be merged      | Submitted 5+ standard pr and be merged, through self-referral/selected by Maintainer  |  Long-term maintenance of MM series algorithm library, Join to be MM Maintainer |   
-|**Medal**  | ![1](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_f9b16886-570c-491b-989e-39bf514c9b7g.jpg)|   |         |     |   
+|**Medal**  | ![1](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_f9b16886-570c-491b-989e-39bf514c9b7g.jpg)| ![2](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_ba4edb22-9419-4fad-ad5d-116f82d3396g.jpg)  | ![3](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_ad58b85e-f7bc-4c7a-88c1-7e1deb2a484g.jpg)      |  ![4](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_291efc97-1002-4e95-9888-1cad9ed41dfg.jpg)   |   
 |**Rights**   |   |      |               |           |   
 
 
