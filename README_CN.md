@@ -18,9 +18,8 @@
 |**等级**     |  **MM Star Ⅰ** | **MM Star Ⅱ** | **MM Star Ⅲ** | **MM  Star Ⅳ** | 
 |:----:   |  :----:      | :----:             |:----:     |:----:      |
 |**定义**  | 完成以下任意一项：> 获得1次及以上月度之星 > 向官方平台投稿且被录用≥1篇 > 其他形成社区影响力的行为，自荐经审核通过即可      |          |       |   
-|**Tasks**  |       |          |       |   
-|**Medal**  |![1](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_f9b16886-570c-491b-989e-39bf514c9b7g.jpg)    |  |           |   
-|**Rights**   |     |    |       |           |   
+|**勋章**  |![1](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_1851e415-8d5b-46dd-bd09-a65476185f4g.png)    |![2](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_9cffb5cd-4bc9-466d-80e2-9b112dc6db3g.jpg))   |  ![3](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_40bb6415-4390-430d-b8b7-5892b7893c9g.jpg)          |   ![4]（https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_fb40cd76-83bb-4cc2-a5f3-4925a2b97aag.png）
+|**Rights**   | （电子版）定制勋章+（电子版）定制证书    |  （电子版）定制勋章+（电子版）定制证书 +进阶周边盲盒  |  （实体）定制勋章+（实体）定制证书+典藏周边盲盒     | （实体）定制勋章+（实体）定制证书+全套限量周边大礼包          |   
 
 
 ## 学习 OpenMMLab
