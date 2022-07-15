@@ -15,7 +15,7 @@ English | [简体中文](https://github.com/oyater/OpenMMLab-Community/blob/main
 |**Rights**   |   |      |               |           |   
 
 
- ### As a user：（暂时不加）
+ ### As a user：
 |**Rank**     |  **OS1** | **OS1** | **committer** | **maintainer** | 
 |:----:   |  :----:      | :----:             |:----:     |:----:      |
 |**Definition**  |       |          |       |   
@@ -36,6 +36,4 @@ All kinds of contributions are welcome, including but not limited to the followi
 * Add documentation or translate the documentation into other languages
 * Add new features and components
 
-### 中：
-### En：
 
