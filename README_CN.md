@@ -3,14 +3,7 @@
 ![图标](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/%E6%88%AA%E5%B1%8F2022-06-27%2016.35.29.png)
 
 ## OpenMMLab 加入
-每一份贡献都值得被记录 🖋
 
-欢迎所有贡献者来填写 [表格](https://home-dev.mai4u.com/contributor) 📒
-
-项目同学审核后将为你颁发对应荣誉与社区盲盒 🎁
-
-并拉你进入对应 github 组织作为奖章展示 🏅
- 
  ### 贡献者：
 |**等级**     |  **contributor** | **Active contributor** | **committer** | **maintainer** | 
 |:----:   |  :----:      | :----:             |:----:     |:----:      |
@@ -18,14 +11,15 @@
  |**徽章**  | ![1](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_f9b16886-570c-491b-989e-39bf514c9b7g.jpg)| ![2](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_ba4edb22-9419-4fad-ad5d-116f82d3396g.jpg)  | ![3](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_ad58b85e-f7bc-4c7a-88c1-7e1deb2a484g.jpg)      |  ![4](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_291efc97-1002-4e95-9888-1cad9ed41dfg.jpg)   |   
 |**权益**   | 发版内测抢先体验；（电子版）定制勋章+（电子版）定制证书  |  发版内测抢先体验，与核心开发者（mentor）共同 review 社区pr；（电子版）定制勋章+（电子版）定制证书 +进阶周边盲盒    | 拥有 write 权限，并可参与核心 roadmap 的规划制定；（实体）定制勋章+（实体）定制证书+典藏周边盲盒  | 拥有整个 repo 的 admin 权限，并有相应算力支持；（实体）定制勋章+（实体）定制证书+全套限量周边大礼包          |   
 
+>每一份贡献都值得被记录 🖋
 
-每一个灵感都不会被埋没 🖋
+>欢迎所有贡献者来填写 [表格](https://home-dev.mai4u.com/contributor) 📒
 
-欢迎所有社区创造者添加喵喵小助手（微信号: OpenMMLabwx）自荐 📒
+>项目同学审核后将为你颁发对应荣誉与社区盲盒 🎁
 
-项目同学审核后将为你颁发对应荣誉与社区盲盒 🎁
+>并拉你进入对应 github 组织作为奖章展示 🏅
 
-并在全渠道为你的优质项目、内容、事迹进行宣发 🏅
+
 
  ### 创造者：
 |**等级**     |  **MM Star Ⅰ** | **MM Star Ⅱ** | **MM Star Ⅲ** | **MM  Star Ⅳ** | 
@@ -34,6 +28,13 @@
 |**勋章**  |![1](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_1851e415-8d5b-46dd-bd09-a65476185f4g.png)|![2](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_9cffb5cd-4bc9-466d-80e2-9b112dc6db3g.jpg)|![3](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_40bb6415-4390-430d-b8b7-5892b7893c9g.jpg) | ![4](https://github.com/oyater/OpenMMLab-Community/blob/main/icon/middle_img_v2_fb40cd76-83bb-4cc2-a5f3-4925a2b97aag.png)|
 |**Rights**   | （电子版）定制勋章+（电子版）定制证书    |  （电子版）定制勋章+（电子版）定制证书 +进阶周边盲盒  |  （实体）定制勋章+（实体）定制证书+典藏周边盲盒     | （实体）定制勋章+（实体）定制证书+全套限量周边大礼包          |   
 
+>每一个灵感都不会被埋没 🖋
+
+>欢迎所有社区创造者添加喵喵小助手（微信号: OpenMMLabwx）自荐 📒
+
+>项目同学审核后将为你颁发对应荣誉与社区盲盒 🎁
+
+>并在全渠道为你的优质项目、内容、事迹进行宣发 🏅
 
 ## OpenMMLab 学习
 
